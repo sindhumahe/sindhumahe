@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sindhumahe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👋 Hi, I’m @sindhumahe.
+- 👀 I’m interested in APP DEVELOPMENT.
+- 🌱 I’m currently learning Full stack java development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
