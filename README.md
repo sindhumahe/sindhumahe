@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sindhumahe.
+- 👋 Hi, I’m @Sindhuja S.
 - 👀 I’m interested in APP DEVELOPMENT.
 - 🌱 I’m currently learning Full stack java development.
 - 💞️ I’m looking to collaborate on ...
